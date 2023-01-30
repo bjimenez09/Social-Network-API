@@ -8,6 +8,7 @@ In this challenge I created an Api for a social network web application where us
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Badges](#badges)
 - [Screenshot](#screenshot)
 
 ## Installation
@@ -38,6 +39,14 @@ npm run start
 ```
 
 Direct your browser via Insomnia  to "http://localhost:3001/"
+
+## Badges
+
+![license](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+![badmath](https://img.shields.io/github/repo-size/ajsherrill2/Social-Network-API)
 
 ## Screenshot
 ![](assets/social-network-api.png)
