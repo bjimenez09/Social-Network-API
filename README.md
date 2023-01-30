@@ -4,9 +4,6 @@
 
 In this challenge I created an Api for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
 
-Walkthrought Video:
-(https://drive.google.com/file/d/16B06NDrt1-R6NIRSpaeYVd3tn21mXECf/view)
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -14,8 +11,6 @@ Walkthrought Video:
 - [Screenshot](#screenshot)
 
 ## Installation
-
-To Install:
 
 To run this project, install it locally using npm:
 Install node.js lts
